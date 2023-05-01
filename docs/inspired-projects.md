@@ -4,7 +4,7 @@ This document highlights a curated selection of remarkable projects inspired by 
 
 ## Projects List
 
-1. [BabyAGI on Slack](https://twitter.com/frankc/status/1645898312594382848)
+1. [[BabyAGI on Slack]](https://twitter.com/frankc/status/1645898312594382848)
    - Description: An implementation of BabyAGI in Slack! Each thread represents a new objective.
    - Author: [Frank Chen](https://frankc.net)
    - Twitter: https://twitter.com/frankc
