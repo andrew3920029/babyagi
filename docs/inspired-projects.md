@@ -1,10 +1,11 @@
 # Inspired Projects
-
+[[inspiration]]
+[[structure]]
 This document highlights a curated selection of remarkable projects inspired by or built upon the concepts and ideas of BabyAGI. Our aim is to showcase the diversity and creativity of the community, foster collaboration, and provide inspiration for future projects. By exploring these examples, we hope you will gain valuable insights and ideas to enhance your own work.
 
 ## Projects List
 
-1. [[BabyAGI on Slack]](https://twitter.com/frankc/status/1645898312594382848)
+1. [[BabyAGI on Slack]](https://twitter.com/frankc/status/1645898312594382848) 
    - Description: An implementation of BabyAGI in Slack! Each thread represents a new objective.
    - Author: [Frank Chen](https://frankc.net)
    - Twitter: https://twitter.com/frankc
@@ -12,7 +13,7 @@ This document highlights a curated selection of remarkable projects inspired by 
    - Description: Assemble, configure, and deploy autonomous AI Agents in your browser.
    - Author: [Asim Shrestha](https://github.com/asim-shrestha)
    - Twitter: https://twitter.com/asimdotshrestha
-1. [AgentLLM](https://github.com/idosal/AgentLLM)
+1. [[link]][AgentLLM](https://github.com/idosal/AgentLLM)
    - Description: AgentGPT that uses a browser-native LLM instead of ChatGPT.
    - Author: [Ido Salomon](https://github.com/idosal)
    - Twitter: https://twitter.com/idosal1
@@ -52,7 +53,7 @@ This document highlights a curated selection of remarkable projects inspired by 
     - Description: BabyAGI for Javascript.
     - Author: [Eric Ciarla](https://github.com/ericciarla)
     - Twitter: https://twitter.com/ericciarla
-1. [Teenage-AGI](https://github.com/seanpixel/Teenage-AGI)
+1. (https://github.com/seanpixel/Teenage-AGI)
     - Description: Inspired by the several Auto-GPT related Projects (predominently BabyAGI) and the Paper "Generative Agents: Interactive Simulacra of Human Behavior", this python project uses OpenAI and Pinecone to Give memory to an AI agent and also allows it to "think" before making an action (outputting text). Also, just by shutting down the AI, it doesn't forget its memories since it lives on Pinecone and its memory_counter saves the index that its on.
     - Author: [Sean Pixel](https://github.com/seanpixel)
     - Twitter: https://twitter.com/sean_pixel
